@@ -1,0 +1,10 @@
+nltk 
+lxml
+requests
+matplotlib
+re
+sklearn
+wikipedia
+random
+gensim
+wordcloud
