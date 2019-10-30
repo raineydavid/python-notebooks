@@ -2,7 +2,6 @@ nltk
 lxml
 requests
 matplotlib
-re
 sklearn
 wikipedia
 random
